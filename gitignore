@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Скомпилированные бинарники
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Результаты тестов и профилирования
+*.out
+coverage.*
+*.prof
+
+# Локальное окружение
+.env
+go.work
+go.work.sum
