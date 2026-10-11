@@ -1,4 +1,4 @@
-module main
+module spammer
 
 go 1.26.5
 
